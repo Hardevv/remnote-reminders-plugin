@@ -37,7 +37,7 @@
 
 ## Demo
 
-<iframe width="560" height="315" src="https://raw.githubusercontent.com/Hardevv/remnote-reminders-plugin/9d570c74c6b73af4c4eb73ff500fb78a33d5421a/plugin/docs/demov2.mp4" frameborder="0" allowfullscreen></iframe>
+![RemNote Reminders Plugin demo](https://raw.githubusercontent.com/Hardevv/remnote-reminders-plugin/9d570c74c6b73af4c4eb73ff500fb78a33d5421a/plugin/docs/demo_thumbnail.png)
 
 ## 🐞 Found a Bug or Have Feedback? 👉 [Open the Feedback Form](https://tally.so/r/3qgQyg)
 
